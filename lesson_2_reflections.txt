@@ -13,3 +13,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	Diagrams can help to understend some concepts like, the parent of a commit or branches more visually, without knowing all the details. It is also more intuitive to see the different branches and when they were created.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	We create a new commit with two parents in which both branches merge. 
