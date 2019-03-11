@@ -9,3 +9,5 @@ Describe the differences between forks, clones, and branches. When would you use
 	A clone is a copy of an existing repository in your local machine.
 	A branch is a commit history that can be different from other branches, typically different versions of the same project.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	You can check it whenever you want
